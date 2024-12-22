@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button } from './button'
+
 import { currentUser } from '@clerk/nextjs/server'
 import { ClerkLoaded, SignInButton, UserButton } from '@clerk/nextjs'
 
